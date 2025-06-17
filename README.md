@@ -2,7 +2,7 @@
 
 ![](https://cdn.discordapp.com/app-icons/1384568070072172714/d8c81fd0f89d09d4d83c940c2f3c2d11.png?size=512)
 
-# Peppino A/D
+# Peppino A/D ⚔️🛡️
 ![](https://img.shields.io/github/last-commit/Pako3549/Peppino?&style=for-the-badge&color=8272a4&logoColor=D9E0EE&labelColor=292324)
 ![](https://img.shields.io/github/stars/Pako3549/Peppino?style=for-the-badge&logo=polestar&color=FFB1C8&logoColor=D9E0EE&labelColor=292324)
 ![](https://img.shields.io/github/repo-size/Pako3549/Peppino?color=CAC992&label=SIZE&logo=files&style=for-the-badge&logoColor=D9E0EE&labelColor=292324)
