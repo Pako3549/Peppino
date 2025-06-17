@@ -8,7 +8,8 @@
 ![](https://img.shields.io/github/repo-size/Pako3549/Peppino?color=CAC992&label=SIZE&logo=files&style=for-the-badge&logoColor=D9E0EE&labelColor=292324)
 
 </div>
-**Peppino** is a Python Discord bot designed to monitor service availability during Attack/Defense (A/D) style CTF competitions. The bot continuously checks if the services are up or down and sends alerts to a specified Discord channel.
+
+**Peppino** is a Discord bot written in Python designed to monitor service availability during Attack/Defense (A/D) style CTF competitions. The bot continuously checks if the services are up or down and sends alerts to a specified Discord channel.
 
 ## 🛠️ Main Features
 
