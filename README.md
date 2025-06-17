@@ -22,8 +22,8 @@
 ## 📋 Prerequisites
 
 Before running the bot, make sure you have:
-- Python 3.8 or higher installed.
-- A Discord bot token (obtainable from the Discord Developer Portal).
+- **Python 3.8 or higher** installed.
+- A **Discord bot token** (obtainable from the [Discord Developer Portal](https://discord.com/developers/applications)).
 - The following Python libraries installed:
   - `discord.py`
   - `python-dotenv`
@@ -52,10 +52,10 @@ Before running the bot, make sure you have:
 
 ## 📖 How to Use
 
-- The bot will automatically start monitoring the configured services.
-- When a service goes down, it sends an alert message in the chosen Discord channel.
-- When the service is back online, it sends a recovery notification.
-- The monitoring runs continuously until the bot is stopped.
+- The bot will automatically start **monitoring** the configured **services**.
+- When a service goes down, it sends an **alert message** in the chosen **Discord channel**.
+- When the service is back **online**, it sends a recovery **notification**.
+- The **monitoring** runs **continuously** until the bot is **stopped**.
 
 ## 🐛 Troubleshooting
 
