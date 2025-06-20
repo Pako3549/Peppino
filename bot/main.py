@@ -57,6 +57,7 @@ async def on_ready():
         )
         embed.set_footer(text="Peppino Bot is ready to monitor 👀")
         await channel.send(embed=embed)
+    send_news.start()
 
 @tasks.loop(seconds=60)
 async def send_news():
